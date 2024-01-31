@@ -111,4 +111,5 @@ button{
 }
 .register-link  a:hover{
     text-decoration: underline;
+    color:black;
 }
